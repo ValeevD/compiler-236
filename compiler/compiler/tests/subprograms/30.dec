@@ -1,6 +1,0 @@
-function f(var i : integer;) : integer;
-[block]
-~~~~:=
-    ~~~~i
-    ~~~~f
-        ~~~~1

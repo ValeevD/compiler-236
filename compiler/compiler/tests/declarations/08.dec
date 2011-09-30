@@ -1,2 +1,0 @@
-var c : array [27..28] of array [30..1000] of array [1..20] of real;
-var e : array [27..28] of array [30..1000] of array [1..20] of real;

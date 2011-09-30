@@ -1,9 +1,0 @@
-[block]
-~~~~[repeat]
-    ~~~~[block]
-        ~~~~[if]
-            ~~~~1
-            [then]
-            ~~~~[block]
-    [until]
-    ~~~~1

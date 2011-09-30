@@ -1,6 +1,0 @@
-procedure proc;
-var a : integer;
-[block]
-~~~~:=
-    ~~~~a
-    ~~~~5

@@ -1,5 +1,0 @@
-procedure proc(var r : real;);
-[block]
-~~~~proc
-    ~~~~(Real)
-        ~~~~10

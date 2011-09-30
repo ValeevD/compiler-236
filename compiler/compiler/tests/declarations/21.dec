@@ -1,2 +1,0 @@
-type my_int = integer;
-function func(var &a : integer; var &b : real; var c : my_int;) : my_int;

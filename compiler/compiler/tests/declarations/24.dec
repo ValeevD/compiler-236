@@ -1,3 +1,0 @@
-procedure proc(var &i : integer; );
-procedure proc0(var &i : integer; var &m : integer; var &k : integer; var s : real;);
-";" expected 29 3

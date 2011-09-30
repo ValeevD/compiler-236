@@ -1,2 +1,0 @@
-procedure proc(var a : integer;var b : integer;var c : real;var d : real;);
-[block]

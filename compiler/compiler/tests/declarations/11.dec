@@ -1,2 +1,0 @@
-const m = 25;
-var t : array [1..25] of real;

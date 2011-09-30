@@ -1,4 +1,0 @@
-procedure p(var &a : integer; );
-[block]
-~~~~p
-    ~~~~a

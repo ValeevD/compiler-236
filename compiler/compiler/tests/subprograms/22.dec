@@ -1,2 +1,0 @@
-procedure fff(var i : integer;);
-")" expected 9 3

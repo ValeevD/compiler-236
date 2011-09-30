@@ -1,6 +1,0 @@
-procedure p(var &a : real; );
-var b : integer;
-[block]
-~~~~p
-    ~~~~(Real)
-        ~~~~b

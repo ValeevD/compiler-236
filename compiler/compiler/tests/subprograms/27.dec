@@ -1,2 +1,0 @@
-procedure proc(var a : integer;);
-")" expected 12 3

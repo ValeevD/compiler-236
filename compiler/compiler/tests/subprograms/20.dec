@@ -1,4 +1,0 @@
-procedure fff(var i : integer;);
-[block]
-~~~~fff
-    ~~~~2
