@@ -1,0 +1,5 @@
+procedure fff(var i : integer;);
+[block]
+~~~~:=
+    ~~~~i
+    ~~~~2

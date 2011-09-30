@@ -1,0 +1,11 @@
+type my_int = integer;
+type tt = record 
+var f : integer;
+var k : my_int;
+var m : my_int;
+end;
+var a : my_int;
+const m = 28;
+var r : record 
+var c : real;
+end;

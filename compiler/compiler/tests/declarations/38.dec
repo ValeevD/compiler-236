@@ -1,0 +1,7 @@
+var a : integer;
+const maxn = 10;
+type tt = integer;
+type tlong = array [1..10] of tt;
+type tlonglong = array [1..20] of tlong;
+var q : tlonglong;
+unknown symbol in type statement 53 14

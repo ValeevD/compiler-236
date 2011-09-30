@@ -1,0 +1,9 @@
+procedure fff(i : integer);
+var
+   i : integer;
+begin
+   i := 2;
+end;
+
+begin           
+end.

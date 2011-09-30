@@ -1,0 +1,8 @@
+var
+   i : integer;
+begin           
+   for i := 2 to 5 do
+      begin
+         i := 5 div 2;
+      end;
+end.

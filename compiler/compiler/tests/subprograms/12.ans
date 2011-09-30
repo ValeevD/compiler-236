@@ -1,0 +1,4 @@
+function f : real;
+var a : integer;
+var b : integer;
+[block]

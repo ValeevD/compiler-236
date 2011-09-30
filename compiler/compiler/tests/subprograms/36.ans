@@ -1,0 +1,2 @@
+function f(var i : integer;) : integer;
+Header does not match previouse definition 1 4

@@ -1,0 +1,2 @@
+function funct(var a : integer;var b : integer;var &c : real; var &d : real; ) : integer;
+[block]

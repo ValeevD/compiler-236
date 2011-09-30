@@ -1,0 +1,13 @@
+const max = 5;
+type stringg = real;
+type sportsman = record 
+var cnt : stringg;
+var fml : stringg;
+var god : integer;
+var rez : integer;
+end;
+var a : array [1..5] of sportsman;
+var i : real;
+var s : stringg;
+var mx : sportsman;
+var j : integer;

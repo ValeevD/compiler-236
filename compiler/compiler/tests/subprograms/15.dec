@@ -1,0 +1,4 @@
+function funct : real;
+type t = integer;
+var i : t;
+[block]

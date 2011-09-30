@@ -1,0 +1,10 @@
+const n = 9;
+type mas = array [1..9] of array [1..9] of integer;
+var m : mas;
+var i : integer;
+var j : integer;
+var s : integer;
+var min : integer;
+var max : integer;
+var jmin : integer;
+var imax : integer;

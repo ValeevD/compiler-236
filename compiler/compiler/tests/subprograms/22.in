@@ -1,0 +1,7 @@
+procedure fff(i : integer);
+begin
+   fff(2, 2);
+end;
+
+begin           
+end.

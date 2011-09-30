@@ -1,0 +1,7 @@
+var
+   i : integer;
+begin
+   repeat
+      i := 2;
+   until 2.234;
+end.

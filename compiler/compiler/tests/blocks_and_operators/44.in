@@ -1,0 +1,6 @@
+var
+   i : integer;
+begin           
+   for i := 2.2 to 5 do
+      i := 5 div 2;
+end.

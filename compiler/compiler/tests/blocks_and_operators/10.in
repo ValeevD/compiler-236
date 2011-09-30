@@ -1,0 +1,6 @@
+var
+   i : integer;
+begin
+   if 1   
+      i := 2;
+end.

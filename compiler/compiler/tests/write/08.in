@@ -1,0 +1,5 @@
+var
+   i : integer;
+begin           
+   write (i + 2, 2 + i, 'enter'); 
+end.

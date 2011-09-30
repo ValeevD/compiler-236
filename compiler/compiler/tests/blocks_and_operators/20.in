@@ -1,0 +1,8 @@
+var
+   i : integer;
+begin
+   if 5.42 then 
+      i := 2
+   else
+      i := 3;
+end.

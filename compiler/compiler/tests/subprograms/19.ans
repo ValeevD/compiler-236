@@ -1,0 +1,5 @@
+function f : real;
+[block]
+~~~~:=
+    ~~~~result
+    ~~~~10.2

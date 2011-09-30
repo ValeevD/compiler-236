@@ -1,0 +1,5 @@
+procedure proc(var a : integer;var b : integer;);
+[block]
+~~~~proc
+    ~~~~10
+    ~~~~12

@@ -1,0 +1,5 @@
+const t = 12.3456;
+var a : record 
+var a : integer;
+end;
+arguments type mismatch 34 3

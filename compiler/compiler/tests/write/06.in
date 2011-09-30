@@ -1,0 +1,6 @@
+var
+   i : integer;
+   j : real;
+begin           
+   write (i, 'enter'#43, j);
+end.

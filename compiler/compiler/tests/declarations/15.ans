@@ -1,0 +1,6 @@
+type rr = record 
+var m : real;
+var n : real;
+end;
+var a : rr;
+wrongConst 11 5

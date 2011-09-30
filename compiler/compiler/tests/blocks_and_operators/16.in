@@ -1,0 +1,12 @@
+var
+   i : integer;
+begin
+   if 1 then
+      begin   
+         i := 2
+      end
+   else
+      begin
+         i := 3;
+      end;
+end.

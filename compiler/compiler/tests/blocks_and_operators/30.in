@@ -1,0 +1,6 @@
+var
+   i : integer;
+begin
+   while 6.42 do
+      i := -i;
+end.

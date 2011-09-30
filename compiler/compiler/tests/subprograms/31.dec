@@ -1,0 +1,2 @@
+procedure p(var i : integer;);
+impossible cast types 11 3

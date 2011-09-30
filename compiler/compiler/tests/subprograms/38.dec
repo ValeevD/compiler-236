@@ -1,0 +1,3 @@
+function f(var i : integer;) : integer;
+function f(var i : integer;) : real;
+impossible cast types 13 5

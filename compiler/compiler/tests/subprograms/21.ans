@@ -1,0 +1,6 @@
+function f(var a : integer;) : integer;
+[block]
+~~~~:=
+    ~~~~result
+    ~~~~f
+        ~~~~10

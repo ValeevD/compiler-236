@@ -1,0 +1,9 @@
+function f(i : integer): integer;
+var
+   i : integer;
+begin
+   i := f(1);
+end;
+
+begin           
+end.

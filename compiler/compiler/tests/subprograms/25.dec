@@ -1,0 +1,5 @@
+function f(var a : integer;var b : real;) : real;
+[block]
+~~~~f
+    ~~~~10
+    ~~~~33.3

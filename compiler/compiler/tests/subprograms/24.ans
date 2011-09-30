@@ -1,0 +1,2 @@
+procedure fff(var i : integer;);
+procedure fff(var i : integer;);

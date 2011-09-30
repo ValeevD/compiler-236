@@ -1,0 +1,3 @@
+type a = array [1..1] of integer;
+type b = array [1..1] of a;
+type c = array [1..1] of b;

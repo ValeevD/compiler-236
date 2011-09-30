@@ -1,0 +1,5 @@
+procedure p(var &a : integer; );
+var b : integer;
+[block]
+~~~~p
+    ~~~~b

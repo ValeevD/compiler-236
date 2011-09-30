@@ -1,0 +1,10 @@
+type tmatrix = array [1..1] of integer;
+var matrix : tmatrix;
+var sums : tmatrix;
+var nums : tmatrix;
+var i : integer;
+var j : integer;
+var k1 : integer;
+var k2 : integer;
+var m : integer;
+var n : integer;

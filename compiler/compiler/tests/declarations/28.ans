@@ -1,0 +1,11 @@
+const maxrow = 14;
+const maxcol = 20;
+type coltype = array [1..14] of integer;
+var exit : real;
+var change : real;
+var nrow : integer;
+var ncol : coltype;
+var col : coltype;
+procedure showfield;
+function checkfield : integer;
+procedure bitform(var n : integer;var &b : coltype; );
